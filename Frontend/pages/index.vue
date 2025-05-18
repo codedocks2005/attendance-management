@@ -25,7 +25,7 @@ Built for teachers, students, and institutions alike.</p>
            </NuxtLink>
         </div>
         <div class="hidden lg:mt-0 lg:col-span-5 lg:flex lg-flex justify-end mr-20">
-            <img src="/images /mockup.png" alt="mockup" class="transform transition-all duration-500 ease-in-out hover:scale-105 hover:rotate-2 hover:translate-y-1 h-110 w-60 mb-30 ml-10" />
+            <img src="/images/mockup.png" alt="mockup" class="transform transition-all duration-500 ease-in-out hover:scale-105 hover:rotate-2 hover:translate-y-1 h-110 w-60 mb-30 ml-10" />
         </div>                
     </div>
 </section>
